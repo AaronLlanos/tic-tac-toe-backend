@@ -15,5 +15,9 @@
     "morgan": "~1.8.1",
     "serve-favicon": "~2.4.2",
     "socket.io": "^1.7.3"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.1",
+    "eslint": "^3.19.0"
   }
 }
